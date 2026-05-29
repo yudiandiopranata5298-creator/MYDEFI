@@ -1,19 +1,10 @@
 # MYDEFI
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MyDeFi - OPN Chain DEX</title>
-  <style>
-    body { font-family: Arial; background: #0a0a0a; color: white; text-align: center; padding: 50px; }
-    h1 { color: #8b5cf6; }
-    button { background: #8b5cf6; color: white; border: none; padding: 15px 30px; font-size: 16px; border-radius: 8px; cursor: pointer; }
-  </style>
-</head>
-<body>
-  <h1>MyDeFi</h1>
-  <p>DEX Swap + Staking di OPN Chain<br>Fee 0.1% | Fast & Secure</p>
-  <button>Connect Wallet</button>
-</body>
-</html>
+
+DEX swap + staking di OPN Chain untuk ION Builders Program.
+
+## Fitur
+- Swap token fee 0.1%
+- Staking pool
+- Connect wallet MetaMask
+
+Built for ION Builders Program
